@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Reduplication\Reduplication.fs" />
+        <Compile Include="QuadrantSelection\QuadrantSelection.fs" />
+        <Compile Include="ColdPuterScience\Cold-PuterScience.fs" />
+    </ItemGroup>
+
+</Project>

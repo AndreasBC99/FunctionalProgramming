@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Exam_Prep_FunctionalProgramming", "Exam_Prep_FunctionalProgramming\Exam_Prep_FunctionalProgramming.fsproj", "{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
