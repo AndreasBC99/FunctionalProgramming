@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Exam_Prep_FunctionalProgramming", "Exam_Prep_FunctionalProgramming\Exam_Prep_FunctionalProgramming.fsproj", "{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kattis", "Kattis\Kattis.fsproj", "{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
