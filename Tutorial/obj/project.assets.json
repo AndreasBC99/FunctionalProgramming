@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/Kattis.fsproj",
-      "projectName": "Kattis",
-      "projectPath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/Kattis.fsproj",
+      "projectUniqueName": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Tutorial/Tutorial.fsproj",
+      "projectName": "Tutorial",
+      "projectPath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Tutorial/Tutorial.fsproj",
       "packagesPath": "/Users/andreaschristensen/.nuget/packages/",
-      "outputPath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/obj/",
+      "outputPath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Tutorial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andreaschristensen/.nuget/NuGet/NuGet.Config"

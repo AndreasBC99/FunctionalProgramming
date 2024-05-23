@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/Kattis.fsproj": {}
+    "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/ConsoleApp1/ConsoleApp1.fsproj": {}
   },
   "projects": {
-    "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/Kattis.fsproj": {
+    "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/ConsoleApp1/ConsoleApp1.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/Kattis.fsproj",
-        "projectName": "Kattis",
-        "projectPath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/Kattis.fsproj",
+        "projectUniqueName": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/ConsoleApp1/ConsoleApp1.fsproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/ConsoleApp1/ConsoleApp1.fsproj",
         "packagesPath": "/Users/andreaschristensen/.nuget/packages/",
-        "outputPath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/obj/",
+        "outputPath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andreaschristensen/.nuget/NuGet/NuGet.Config"

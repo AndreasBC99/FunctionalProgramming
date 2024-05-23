@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgzqA4WJgzr5mm3ox7RKnXlR6XxsNxYL1Qf3Sv/AZa1lJWgTagEkNm0q+4fkjCtFZVyipr99fG6Fct8XIjYckg==",
+  "success": true,
+  "projectFilePath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Exam2023/Exam2023.fsproj",
+  "expectedPackageFiles": [
+    "/Users/andreaschristensen/.nuget/packages/fsharp.core/8.0.300/fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kattis", "Kattis\Kattis.fsproj", "{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Exam2023", "Exam2023\Exam2023.fsproj", "{500F52F3-5EF7-4B1F-953A-D294C994DF17}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tutorial", "Tutorial\Tutorial.fsproj", "{5737300A-23BA-4E54-AD0E-C93E99B637C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73F17FF7-A73C-4CAA-A928-E14FBD3E6C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500F52F3-5EF7-4B1F-953A-D294C994DF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500F52F3-5EF7-4B1F-953A-D294C994DF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500F52F3-5EF7-4B1F-953A-D294C994DF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500F52F3-5EF7-4B1F-953A-D294C994DF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5737300A-23BA-4E54-AD0E-C93E99B637C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5737300A-23BA-4E54-AD0E-C93E99B637C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5737300A-23BA-4E54-AD0E-C93E99B637C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5737300A-23BA-4E54-AD0E-C93E99B637C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0z2H/KEwSUrw9UhmYqcyAeU/JJT5bHvl+sLPHK+z1C7zYKE61P7ejnIGqujRLxIGlWvThojpwxxnWp6Egweow==",
+  "success": true,
+  "projectFilePath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Tutorial/Tutorial.fsproj",
+  "expectedPackageFiles": [
+    "/Users/andreaschristensen/.nuget/packages/fsharp.core/8.0.300/fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

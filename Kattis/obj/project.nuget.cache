@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E6kV1FUbFnCyRgZLEQO22xZShCr98caB6NsC0uDgFmOOnDt688vrA4uAGglEmDSwrOnWwER1MGbejVvmWESi/Q==",
+  "dgSpecHash": "8yu8KuPY2h4M0kicX6Id+UK3a/bpvjO3AWhpSHl9fAscAchBdJVn4CDXC6vgInKX46HKT8rCxEueHVGhCODKNw==",
   "success": true,
   "projectFilePath": "/Users/andreaschristensen/RiderProjects/Exam_Prep_FunctionalProgramming/Kattis/Kattis.fsproj",
   "expectedPackageFiles": [
-    "/Users/andreaschristensen/.nuget/packages/fsharp.core/8.0.101/fsharp.core.8.0.101.nupkg.sha512"
+    "/Users/andreaschristensen/.nuget/packages/fsharp.core/8.0.300/fsharp.core.8.0.300.nupkg.sha512"
   ],
   "logs": []
 }
